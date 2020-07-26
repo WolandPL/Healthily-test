@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Healthily Test</string>
+    <string name="search_hint_text">Enter the name of a place</string>
+    <string name="search_label">Search</string>
+    <string name="error_title">An error occurred</string>
+    <string name="error_information">Unfortunately we were not able to perform the search. Please try again later.</string>
+</resources>
